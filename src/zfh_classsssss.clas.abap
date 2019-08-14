@@ -4,6 +4,7 @@ CLASS zfh_classsssss DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
+    " make another change
   PROTECTED SECTION.
   PRIVATE SECTION.
 ENDCLASS.
